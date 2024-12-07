@@ -1,4 +1,4 @@
 # 1st-Project
 this my demo project
 
-Author Omkar Babu Mastamardi
+Author<b> Omkar Babu Mastamardi</b>
